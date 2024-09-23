@@ -1,4 +1,4 @@
-# DSA-Strategy
+# DCA-Strategy
 
 In this repo, we'll dive deep into the DCA strategy, visualizing portfolio growth.
 ![dsa](dsa.jpeg)
