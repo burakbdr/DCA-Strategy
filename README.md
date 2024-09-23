@@ -26,6 +26,5 @@ pip install --upgrade pip
 
 
 ## Disclamier
-```
+
 This repo is for educational and informational purposes only. It is not financial or investment advice, and the strategies discussed here may not be suitable for your individual situation. Always consult with a financial professional before making any investment decisions.
-```
